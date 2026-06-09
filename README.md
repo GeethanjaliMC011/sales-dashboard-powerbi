@@ -29,7 +29,10 @@ This project presents an interactive Sales Performance Dashboard developed using
 - Interactive Filters
 
 ## Dataset
-Superstore Sales Dataset from Kaggle
+Dataset
+The dataset used in this project is sourced from Kaggle.
+Dataset link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Source: Kaggle
 
 ## Dashboard Preview
 
